@@ -20,3 +20,8 @@ El software que utilizaremos para realizar los laboratorios es el empaquetado ge
 
 [LAB1]: https://github.com/vthot4/CURSO_KAFKA/blob/master/Laboratorios/CURSO_KAFKA_LAB_1.pdf
 [Software Confluent]: https://www.confluent.io/download/
+
+
+> **Nota:**
+
+> - El curso esta en elaboración ...
