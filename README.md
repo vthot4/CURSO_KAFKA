@@ -6,8 +6,8 @@ El software que utilizaremos para realizar los laboratorios es el empaquetado ge
 ## Contenido del curso
 
 #### Documentación Teórica
-Apache Kafka. Una introducción teórica.
-Confluent Plataform.
+1. Apache Kafka. Una introducción teórica.
+2. Confluent Plataform.
 
 #### Laboratorios prácticos 
 1. Laboratorio 1: Implementando un nodo con un Broker [LAB1]. 
