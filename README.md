@@ -10,12 +10,12 @@ Apache Kafka. Una introducción teórica.
 Confluent Plataform.
 
 #### Laboratorios prácticos 
-Laboratorio 1: Implementando un nodo con un Broker [LAB1]. 
-Laboratorio 2: Implementando un nodo con multi-broker.
-Laboratorio 3: Implementando un clúster multinodo con n Brokers
-Laboratorio 4: Administración gráfica.
-Laboratorio 5: Diseñando una implementación.
-Laboratorio 6: Añadiendo schema-registry en nuestra arquitectura.
+1. Laboratorio 1: Implementando un nodo con un Broker [LAB1]. 
+2. Laboratorio 2: Implementando un nodo con multi-broker.
+3. Laboratorio 3: Implementando un clúster multinodo con n Brokers
+4. Laboratorio 4: Administración gráfica.
+5. Laboratorio 5: Diseñando una implementación.
+6. Laboratorio 6: Añadiendo schema-registry en nuestra arquitectura.
 
 
 [LAB1]: https://github.com/vthot4/CURSO_KAFKA/blob/master/Laboratorios/CURSO_KAFKA_LAB_1.pdf
