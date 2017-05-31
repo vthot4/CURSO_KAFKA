@@ -22,6 +22,6 @@ El software que utilizaremos para realizar los laboratorios es el empaquetado ge
 [Software Confluent]: https://www.confluent.io/download/
 
 
-> **Nota:**
+**Nota:**
 
 > - El curso esta en elaboración ...
