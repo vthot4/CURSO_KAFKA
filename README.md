@@ -7,12 +7,12 @@ por la empresa Confluent. El software lo podremos descargar de [Software Conflue
 
 
 <h2> Contenido del curso </h2>
----
-**Documentación Teórica**
+
+<H4> Documentación Teórica</H4>
 Apache Kafka. Una introducción teórica. [Teoria1]
 Confluent Plataform. [Teoria2]
 
-**Laboratorios prácticos**
+<H4> Laboratorios prácticos </H4>
 Laboratorio 1: Implementando un nodo con un broker [LAB1].
 Laboratorio 2: Implementando un nodo con multibroker. [LAB2]
 Laboratorio 3: Implementando un clúster multinodo con n brokers [LAB3]
