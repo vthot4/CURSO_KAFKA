@@ -17,13 +17,12 @@ El software que utilizaremos para realizar los laboratorios es el empaquetado ge
 5. Laboratorio 5: Diseñando una implementación.
 6. Laboratorio 6: Añadiendo schema-registry en nuestra arquitectura.
 
-[TEORIA]: https://github.com/vthot4/CURSO_KAFKA/blob/master/CURSO_KAFKA_TEORIA.pdf
+[TEORIA]: https://github.com/vthot4/CURSO_KAFKA/blob/master/Teoria/CURSO_KAFKA_TEORIA.pdf
 [LAB1]: https://github.com/vthot4/CURSO_KAFKA/blob/master/Laboratorios/CURSO_KAFKA_LAB_1.pdf
 [LAB2]: https://github.com/vthot4/CURSO_KAFKA/blob/master/Laboratorios/CURSO_KAFKA_LAB_2.pdf
 [LAB3]: https://github.com/vthot4/CURSO_KAFKA/blob/master/Laboratorios/CURSO_KAFKA_LAB_3.pdf
 [LAB4]: https://github.com/vthot4/CURSO_KAFKA/blob/master/Laboratorios/CURSO_KAFKA_LAB_4.pdf
 [Software Confluent]: https://www.confluent.io/download/
-
 
 **Nota:**
 
